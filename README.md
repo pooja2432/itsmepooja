@@ -1,7 +1,7 @@
 # 🌍 Responsible E-Commerce Website  
 
 ## 📌 About the Project  
-This is a simple **e-commerce website** built using **HTML, CSS, and JavaScript**. It focuses on **selling products responsibly**, meaning the products are eco-friendly and ethically sourced. The website is **easy to use, mobile-friendly, and secure**.  
+This is a fully responsive **e-commerce website** built using **HTML, CSS, and JavaScript**. It focuses on **selling products responsibly**, meaning the products are eco-friendly and ethically sourced. The website is **easy to use, mobile-friendly, and secure**.  
 
 ## ✨ Features  
 ✔️ **Simple and Clean Design** – Easy to navigate for all users.  
