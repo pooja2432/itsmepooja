@@ -19,7 +19,7 @@ This is a fully responsive **e-commerce website** built using **HTML, CSS, and J
 ## 🚀 How to Use  
 1. **Download or Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/responsible-ecommerce.git
+   git clone https://github.com/pooja2432/itsmepooja.git
    cd responsible-ecommerce
    ```  
 2. **Open `index.html` in a browser.**  
